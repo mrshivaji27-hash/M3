@@ -189,8 +189,7 @@ Thus the program to count total number of positive elements in an array has been
 
 # EX -15 - Replace All Even Elements With 'E' In One Dimensional Array
 
-## Name : A SATHYA NARAYANAN
-## Register Number : 25016804
+
 
 ## Aim:
 To write a C program to replace all even elements with 'E' in one dimensional array
